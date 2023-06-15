@@ -5,6 +5,7 @@ This project is a mini contact management application built with React Router. I
 ## Project Overview
 
 The contact management project allows users to perform various operations on contacts, including viewing, editing, and deleting. The application utilizes React Router to handle different routes and components for each functionality.
+[preview.png](preview.png)
 
 ## Project Structure
 
