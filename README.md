@@ -23,13 +23,13 @@ To get started with this project, please follow these steps:
 - Clone the repository to your local machine using the following command:
 
 ```bash
-    git clone <repository-url>
+    git clone https://github.com/Mohamed-lifa7/contacts-managment.git
 ```
 
 - Change into the project's directory:
 
 ```bash
-    cd react-router-contacts-managment
+    cd contacts-managment
 ```
 
 - Install the project dependencies:
